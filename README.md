@@ -23,7 +23,7 @@ Nexonix Clipboard repository has [Ukrainian :ukraine:](#nexonix-clipboard-ukrain
 1. Клонування репозиторію
 
 ```bash
-git clone https://github.com/NikitaBerezhnyj/nexonix-clipboard.git
+git clone https://github.com/NikitaBerezhnyj/Nexonix_Clipboard.git
 ```
 
 2. Перейдіть до теки проекту
@@ -77,7 +77,7 @@ This project implements an advanced clipboard for the operating system using Tau
 1. Cloning the repository
 
 ```bash
-git clone https://github.com/NikitaBerezhnyj/nexonix-clipboard.git
+git clone https://github.com/NikitaBerezhnyj/Nexonix_Clipboard.git
 ```
 
 2. Change to the project folder
